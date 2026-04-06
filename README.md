@@ -55,7 +55,7 @@ gcc -o automaton main.c
 ## Why This Project Stands Out
 Cellular automata sit at the intersection of computer science, mathematics, 
 and complexity theory. Building this simulator required understanding binary 
-rule encoding and clean state management — skills that transfer directly 
+rule encoding and clean state management using skills that transfer directly 
 to systems programming and algorithm design.
 
 ---
