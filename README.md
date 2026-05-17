@@ -20,7 +20,7 @@ Wolfram's classification system.
 - 65-cell world with wrap-around boundaries
 - Starts from a single active center cell
 - Prints each generation as a visual row of characters
-- Compact, efficient implementation in C
+- Compact, efficient implementation in C 
 
 ## Example Output
 ```
