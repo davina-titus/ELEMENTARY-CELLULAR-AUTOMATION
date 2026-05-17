@@ -44,9 +44,6 @@ Rule 30:
 ```bash
 gcc -o automaton main.c
 ./automaton <rule_number>
-# Example:
-./automaton 30
-./automaton 110
 ```
 
 ## Language
