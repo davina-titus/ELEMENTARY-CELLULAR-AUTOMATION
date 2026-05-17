@@ -1,4 +1,4 @@
-# Elementary Cellular Automaton 🔲
+# Elementary Cellular Automaton 
 
 A 1D binary cellular automata simulator built in C, implementing all 256 
 of Wolfram's elementary rules. A single active cell evolves across 
